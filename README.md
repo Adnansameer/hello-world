@@ -1,2 +1,4 @@
 # hello-world
-I am astudent and want to learn something better
+hi
+i just want to learn something better
+and want to complete my project
